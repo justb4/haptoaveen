@@ -1,0 +1,4 @@
+
+magic_quotes_gpc=on
+magic_quotes_runtime=on
+mbstring.func_overload=4
